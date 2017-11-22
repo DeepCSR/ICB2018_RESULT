@@ -34,9 +34,9 @@ Deep CSR | 0.9777 | 0.9862
 
 Figure 5. The ROC of personal independent problem
 
-![pi](img/Personal_Independent.png)
+![pi](Personal_Independent.png)
 
 Figure 6. The ROC of personal dependent problem
 
-![pd](img/Personal_Dependent.png)
+![pd](Personal_Dependent.png)
 
